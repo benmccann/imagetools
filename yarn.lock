@@ -830,10 +830,10 @@
   dependencies:
     "@types/istanbul-lib-report" "*"
 
-"@types/jest-image-snapshot@^4.3.0":
-  version "4.3.0"
-  resolved "https://registry.yarnpkg.com/@types/jest-image-snapshot/-/jest-image-snapshot-4.3.0.tgz#d07d4278520ab0d3be0ad2d7825b282180c03cb4"
-  integrity sha512-gb6zF1ICfvzBsQYMTq2qFhhiI46Cab/t5PtLK4Z3mpbyQoyKI2HgCFDi71iE7rjs6TrIPnsf2GXw+mnGvZSgrA==
+"@types/jest-image-snapshot@^5.1.0":
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/@types/jest-image-snapshot/-/jest-image-snapshot-5.1.0.tgz#aa355ec40625fcb338fd31c935791bc8fde72bcf"
+  integrity sha512-pfCz6dclA8mDxwXN/x/PuYBCPwzGuYcTfOVZvDAikC1GLXg/CwECF9UgtWse0tR42c6OaL7LPEnN7i/Dm86KkQ==
   dependencies:
     "@types/jest" "*"
     "@types/pixelmatch" "*"
@@ -3224,10 +3224,10 @@ jest-haste-map@^26.6.2:
   optionalDependencies:
     fsevents "^2.1.2"
 
-jest-image-snapshot@^4.5.0:
-  version "4.5.0"
-  resolved "https://registry.yarnpkg.com/jest-image-snapshot/-/jest-image-snapshot-4.5.0.tgz#77d3a4c37b61eb88cd6ecacef8cecf676cb2ec68"
-  integrity sha512-9Q1xyjyUsepNgn6/DaMnT4maaCSi3yaDp/xq1bnsOTk/tR3utygOTLOFOwztNrrkWX7HIXcm5PcHC2Mc5iBwUw==
+jest-image-snapshot@^5.1.0:
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/jest-image-snapshot/-/jest-image-snapshot-5.1.0.tgz#8282abab770d6943b5f78498eca548cfebc4c1d5"
+  integrity sha512-GpTaiJehsVeMRvszSuMkRK0ODSHxr31zalk3qoHVqHKGztgYlJ+Y6AheWHU6azODuoVpMQH52zY/sxri9d/GaA==
   dependencies:
     chalk "^1.1.3"
     get-stdin "^5.0.1"
